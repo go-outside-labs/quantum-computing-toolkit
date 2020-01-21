@@ -1,4 +1,4 @@
-# Curated Resources on Quantum Computing
+# Curated Quantum Computing
 
 
 
