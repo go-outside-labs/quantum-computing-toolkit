@@ -1,4 +1,4 @@
-# Curated Quantum Computing
+# 🧬 Curated Quantum Computing
 
 
 
