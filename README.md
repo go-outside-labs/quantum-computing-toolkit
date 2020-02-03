@@ -1,6 +1,10 @@
 # 🧬 Curated Quantum Computing
 
+Quantum computing technology starts a new exciting era in humanity, combining quantum physics, security, artificial intelligence, and computing technologies. The quantum computing market revenue is forecasted to reach $10 billion annually by 2030.
 
+At the same time, quantum computers should decimate the security infrastructure of the digital economy: the only question is when. Once they become available, some of the main asymmetric algorithms used in cryptography today will no longer be safe. 
+
+The purpose of this repository is to keep a list of high-quality curated resources on the current state of quantum computing hardware and software, and its implications to post-quantum cryptography.
 
 ### Articles
 
