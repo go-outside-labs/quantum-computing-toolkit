@@ -6,6 +6,8 @@ At the same time, quantum computers should decimate the security infrastructure 
 
 The purpose of this repository is to keep a list of high-quality curated resources on the current state of quantum computing hardware and software, and its implications to post-quantum cryptography.
 
+
+
 ### Articles
 
 * [Quantum computing for the very curious, bv Michael Nielsen](https://quantum.country/qcvc).
