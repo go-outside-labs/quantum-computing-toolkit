@@ -125,6 +125,11 @@ and authentication in TLS and SSH (from AWS and Microsoft folks)](https://openqu
 * [Cryptography in a post-quantum world](https://www.accenture.com/_acnmedia/PDF-87/Accenture-809668-Quantum-Cryptography-Whitepaper-v05.pdf#zoom=50).
 
 
+---
+
+<a href="https://www.buymeacoffee.com/miavonpizza" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-pink.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+
+
 
 
 
