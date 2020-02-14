@@ -19,6 +19,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 ### Books
 
+* [Quantum Computing, by Jack Hidary](https://github.com/JackHidary/quantumcomputingbook).
 * [Introduction to Quantum Information, M. von Steinkirch](http://www.astro.sunysb.edu/steinkirch/books/qi.pdf).
 
 ### Linear Algebra
