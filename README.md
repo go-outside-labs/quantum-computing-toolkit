@@ -11,6 +11,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 ### Articles
 
 * [Quantum computing for the very curious, bv Michael Nielsen](https://quantum.country/qcvc).
+* [The First PLanQC in the Road to Quantum Programming](https://blog.sigplan.org/2020/02/06/planqc/).
 
 ### Videos
 
