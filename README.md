@@ -20,6 +20,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 ### Books
 
+* [Scott Aaronson: Quantum Computing | AI Podcast #72 with Lex Fridman](https://www.youtube.com/watch?v=uX5t8EivCaM).
 * [Quantum Computing, by Jack Hidary](https://github.com/JackHidary/quantumcomputingbook).
 * [Introduction to Quantum Information, M. von Steinkirch](http://www.astro.sunysb.edu/steinkirch/books/qi.pdf).
 
