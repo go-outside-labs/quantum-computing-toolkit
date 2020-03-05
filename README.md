@@ -8,7 +8,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 
 
-### Articles
+### General Articles
 
 * [Quantum computing for the very curious, bv Michael Nielsen](https://quantum.country/qcvc).
 
@@ -22,7 +22,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 ### Books
 
-
+* [Quantum Computation and Quantum Information,by Mike & Ike](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176).
 * [Quantum Computing, by Jack Hidary](https://github.com/JackHidary/quantumcomputingbook).
 * [Introduction to Quantum Information, M. von Steinkirch](http://www.astro.sunysb.edu/steinkirch/books/qi.pdf).
 
@@ -43,6 +43,10 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [How quantum teleportation works, by Michael Nielsen, 2019](https://quantum.country/teleportation).
 * [Quantum scrambling and teleportation, by Victory Omole, 2019](https://vtomole.com/blog/2019/06/08/scrambling)
+
+## Variational Quantum Eigensolver
+
+* [Variational Quantum Eigensolver Explained by Musty](https://www.mustythoughts.com/post/variational-quantum-eigensolver-explained).
 
 ## Quantum Supremacy
 
