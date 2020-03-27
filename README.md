@@ -48,6 +48,10 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [Variational Quantum Eigensolver Explained by Musty](https://www.mustythoughts.com/post/variational-quantum-eigensolver-explained).
 
+## Topological Quantum Computers
+
+* [Developing a Topological Qubit](https://cloudblogs.microsoft.com/quantum/2018/09/06/developing-a-topological-qubit/).
+
 ## Quantum Supremacy
 
 ### Articles
