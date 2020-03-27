@@ -7,6 +7,7 @@ At the same time, quantum computers should decimate the security infrastructure 
 The purpose of this repository is to keep a list of high-quality curated resources on the current state of quantum computing hardware and software, and its implications to post-quantum cryptography.
 
 
+## Introduction
 
 ### General Articles
 
@@ -36,9 +37,6 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [Lecture on Quantum Computation by David Deutsch](http://www.quiprocone.org/Protected/DD_lectures.htm).
 * [Quantum Computing for the Determined by Michael Nielsen](http://michaelnielsen.org/blog/quantum-computing-for-the-determined/).
-
-
-
 ## Quantum Teleportation
 
 * [How quantum teleportation works, by Michael Nielsen, 2019](https://quantum.country/teleportation).
@@ -48,9 +46,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [Variational Quantum Eigensolver Explained by Musty](https://www.mustythoughts.com/post/variational-quantum-eigensolver-explained).
 
-## Topological Quantum Computers
-
-* [Developing a Topological Qubit](https://cloudblogs.microsoft.com/quantum/2018/09/06/developing-a-topological-qubit/).
+----
 
 ## Quantum Supremacy
 
@@ -65,13 +61,9 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [Google's Quantum supremacy explained](https://www.youtube.com/watch?v=gylmjTOUfCQ&feature=youtu.be).
 
+----
 
-## Quantum Software
-* [Overview and Comparison of Gate Level Quantum Software Platforms](https://arxiv.org/pdf/1807.02500.pdf).
-* [Making Quantum Computing Open: Lessons from Open-Source Projects](https://arxiv.org/pdf/1902.00991.pdf).
-* [Open-source in Quantum Computing](https://arxiv.org/pdf/1812.09167.pdf).
-
-## NISQ Era
+## The NISQ Era
 
 * [Quantum Computing in th NISQ era and Beyond, John Preskill](https://arxiv.org/pdf/1801.00862.pdf).
 
@@ -88,9 +80,11 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [Simulating Physics with Computers](https://www.dwavesys.com/sites/default/files/2018-04-04%20-%20Max%20Henderson%20-%20Quantum%20Machine%20Learning%20for%20Election%20Modeling.pdf).
 
-
-
-## Software
+-----
+## Quantum Software
+* [Overview and Comparison of Gate Level Quantum Software Platforms](https://arxiv.org/pdf/1807.02500.pdf).
+* [Making Quantum Computing Open: Lessons from Open-Source Projects](https://arxiv.org/pdf/1902.00991.pdf).
+* [Open-source in Quantum Computing](https://arxiv.org/pdf/1812.09167.pdf).
 
 
 ### Cirq
@@ -103,7 +97,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [s2n : an implementation of the TLS/SSL protocols (with post-quantum hybrid options)](https://github.com/awslabs/s2n).
 
-
+----
 
 ## Hardware
 
@@ -115,6 +109,11 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 * [Traffic flow optimization using a quantum annealer](https://arxiv.org/abs/1708.01625).
 * [When can Quantum Annealing win?](https://ai.googleblog.com/2015/12/when-can-quantum-annealing-win.html)
 
+## Topological Quantum Computers
+
+* [Developing a Topological Qubit](https://cloudblogs.microsoft.com/quantum/2018/09/06/developing-a-topological-qubit/).
+
+----
 
 ## Post-Quantum & Crypto
 
@@ -125,10 +124,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 * [SIKE](https://sike.org/).
 * [BIKE](https://bikesuite.org/).
 
-
 ### Articles
-
-#### 2019
 
 * [NIST's PQC Standardization Process: Second Round Candidate Announcement](https://csrc.nist.gov/news/2019/pqc-standardization-process-2nd-round-candidates).
 * [Prototyping post-quantum and hybrid key exchange
