@@ -103,6 +103,11 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [This is what a 50-qubit quantum computer looks like](https://www.engadget.com/2018/01/09/this-is-what-a-50-qubit-quantum-computer-looks-like/).
 
+### Trapped Ion
+
+* [Demonstration of the QCCD trapped-ion quantum computer architecture, by Honeywell Quantum Solutions](https://www.honeywell.com/content/dam/honeywell/files/Beta_10_Quantum_3_3_2020.pdf).
+
+
 ### Quantum Annealers 
 
 * [D-Wave 2000Q System](https://www.dwavesys.com/d-wave-two-system).
