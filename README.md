@@ -1,6 +1,6 @@
 # 🧬 Curated Quantum Computing
 
-[![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)]
+![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)
 
 Quantum computing technology starts a new exciting era in humanity, combining quantum physics, security, artificial intelligence, and computing technologies. The quantum computing market revenue is forecasted to reach $10 billion annually by 2030.
 
