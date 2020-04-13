@@ -34,6 +34,10 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 * [MIT Linear Algebra Course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/).
 * [Essence of linear algebra videos](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab).
 
+### Quantum Mechanics
+
+* [Quantum Mechanics explained](https://www.youtube.com/watch?v=Usu9xZfabPM).
+
 
 ### Lectures & MOOCs
 
