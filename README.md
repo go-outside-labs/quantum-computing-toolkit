@@ -101,6 +101,10 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 * [Programming a quantum computer with Cirq](https://www.youtube.com/watch?v=16ZfkPRVf2w&feature=youtu.be).
 
 
+### pyQuil
+
+* [Warsaw Quantum Computing Group: "Introduction to programming quantum computers using pyQuil"](https://www.youtube.com/watch?v=FPGcmK0ftXU&feature=youtu.be).
+
 ### s2n
 
 * [s2n : an implementation of the TLS/SSL protocols (with post-quantum hybrid options)](https://github.com/awslabs/s2n).
