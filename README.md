@@ -96,6 +96,10 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 * [Making Quantum Computing Open: Lessons from Open-Source Projects](https://arxiv.org/pdf/1902.00991.pdf).
 * [Open-source in Quantum Computing](https://arxiv.org/pdf/1812.09167.pdf).
 
+### Qiskit
+
+* [Qiskit Textbook](https://qiskit.org/textbook/preface.html).
+
 
 ### Cirq
 
