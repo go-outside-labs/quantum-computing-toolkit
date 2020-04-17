@@ -13,6 +13,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 ### General Articles
 
+* [Simulating Physics with Computers, Richard P. Feynman](https://catonmat.net/ftp/simulating-physics-with-computers-richard-feynman.pdf).
 * [Quantum computing for the very curious, by Michael Nielsen](https://quantum.country/qcvc).
 * [Quantum Computing in the NISQ era and Beyond, by John Preskill](https://arxiv.org/pdf/1801.00862.pdf).
 
