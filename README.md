@@ -85,6 +85,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 ## Quantum Machine Learning
 
+* [Quantum Machine Learning MOOC from University of Toronto](https://www.edx.org/course/quantum-machine-learning).
 * [Simulating Physics with Computers](https://www.dwavesys.com/sites/default/files/2018-04-04%20-%20Max%20Henderson%20-%20Quantum%20Machine%20Learning%20for%20Election%20Modeling.pdf).
 
 -----
