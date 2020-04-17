@@ -104,6 +104,8 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 ### pyQuil
 
+
+* [pyQuil official docs](http://docs.rigetti.com/en/stable/start.html).
 * [Warsaw Quantum Computing Group: "Introduction to programming quantum computers using pyQuil"](https://www.youtube.com/watch?v=FPGcmK0ftXU&feature=youtu.be).
 
 ### s2n
