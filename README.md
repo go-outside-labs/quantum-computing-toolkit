@@ -29,6 +29,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [Quantum Computation and Quantum Information,by Mike & Ike](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176).
 * [Quantum Computing, by Jack Hidary](https://github.com/JackHidary/quantumcomputingbook).
+* [A Course in Quantum Computing](http://lapastillaroja.net/wp-content/uploads/2016/09/Intro_to_QC_Vol_1_Loceff.pdf).
 * [Introduction to Quantum Information, M. von Steinkirch](http://www.astro.sunysb.edu/steinkirch/books/qi.pdf).
 
 ### Linear Algebra
