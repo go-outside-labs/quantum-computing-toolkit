@@ -133,6 +133,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 ### Algorithms
 
+* [Quantum Algorithm Zoo](http://quantumalgorithmzoo.org/).
 * [SIKE](https://sike.org/).
 * [BIKE](https://bikesuite.org/).
 
