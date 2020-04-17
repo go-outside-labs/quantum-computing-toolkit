@@ -13,7 +13,8 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 ### General Articles
 
-* [Quantum computing for the very curious, bv Michael Nielsen](https://quantum.country/qcvc).
+* [Quantum computing for the very curious, by Michael Nielsen](https://quantum.country/qcvc).
+* [Quantum Computing in the NISQ era and Beyond, by John Preskill](https://arxiv.org/pdf/1801.00862.pdf).
 
 
 ### Videos
