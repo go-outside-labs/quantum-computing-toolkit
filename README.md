@@ -23,7 +23,6 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 * [Scott Aaronson: Quantum Computing - AI Podcast #72 with Lex Fridman](https://www.youtube.com/watch?v=uX5t8EivCaM).
 * [John Preskill on Quantum Computing - Ycombinator](https://blog.ycombinator.com/john-preskill-on-quantum-computing/).
 * [Simon Benjamin on Architectures for Quantum Computing - Ycombinator](https://www.youtube.com/watch?v=LHZKDTJJknE).
-* [The Race For Quantum Supremacy - VICE](https://www.youtube.com/watch?v=1lIfbqfoGMo&feature=emb_logo).
 
 ### Books
 
@@ -70,6 +69,8 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 ### Videos
 
 * [Google's Quantum supremacy explained](https://www.youtube.com/watch?v=gylmjTOUfCQ&feature=youtu.be).
+* [The Race For Quantum Supremacy - VICE](https://www.youtube.com/watch?v=1lIfbqfoGMo&feature=emb_logo).
+
 
 ----
 
