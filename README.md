@@ -39,6 +39,7 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 ### Quantum Mechanics
 
+* [Susskind's Stanford Introduction to Quantum Mechanics](http://theoreticalminimum.com/courses/quantum-mechanics/2012/winter/lecture-1).
 * [Quantum Mechanics explained](https://www.youtube.com/watch?v=Usu9xZfabPM).
 
 
