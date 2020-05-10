@@ -87,10 +87,15 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 * [The Potential Impact of Quantum Computers on Society](https://arxiv.org/abs/1712.05380).
 * [Volkswagen to Test Quantum Navigation App in Real Traffic](https://www.wsj.com/articles/volkswagen-to-test-quantum-navigation-app-in-real-traffic-11572553300).
 
-## Quantum Machine Learning
+---
 
+# Quantum Machine Learning
+
+## Introduction
 * [Quantum Machine Learning MOOC from University of Toronto](https://www.edx.org/course/quantum-machine-learning).
 * [Simulating Physics with Computers](https://www.dwavesys.com/sites/default/files/2018-04-04%20-%20Max%20Henderson%20-%20Quantum%20Machine%20Learning%20for%20Election%20Modeling.pdf).
+* [Opportunities and Challenges for quantum-assisted ML in NISQ](https://iopscience.iop.org/article/10.1088/2058-9565/aab859).
+
 
 -----
 ## Quantum Software
