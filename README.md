@@ -9,6 +9,15 @@ At the same time, quantum computers should decimate the security infrastructure 
 The purpose of this repository is to keep a list of high-quality curated resources on the current state of quantum computing hardware and software, and its implications to post-quantum cryptography.
 
 
+<br>
+
+[👾 Btw, here is some entertaining: my DEF CON 23 talk on Hacking Quantum Computing](https://www.youtube.com/watch?v=1Fp6ibfOQ4Y).
+
+
+<br>
+
+
+
 ## Introduction
 
 ### General Articles
