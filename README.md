@@ -11,12 +11,13 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 <br>
 
-[👾 Btw, here is some entertaining: my DEF CON 23 talk on Hacking Quantum Computing](https://www.youtube.com/watch?v=1Fp6ibfOQ4Y).
+#### [👾♄ my quantum teleportation demo in Cirq](https://www.youtube.com/watch?v=oGYMrXpQT-8)
+#### [👾♄ my DEF CON 23 talk on Hacking Quantum Computing](https://www.youtube.com/watch?v=1Fp6ibfOQ4Y)
 
 
 <br>
 
-
+----
 
 ## Introduction
 
