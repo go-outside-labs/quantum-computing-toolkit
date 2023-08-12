@@ -2,6 +2,8 @@
 
 ![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg) 
 
+<br>
+
 Quantum computing technology starts a new exciting era in humanity, combining quantum physics, security, artificial intelligence, and computing technologies. The quantum computing market revenue is forecasted to reach $10 billion annually by 2030.
 
 At the same time, quantum computers should decimate the security infrastructure of the digital economy: the only question is when. Once they become available, some of the main asymmetric algorithms used in cryptography today will no longer be safe. 
@@ -11,15 +13,27 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 <br>
 
-#### [👾♄ my quantum teleportation demo in Cirq](https://www.youtube.com/watch?v=oGYMrXpQT-8)
-#### [👾♄ my DEF CON 23 talk on Hacking Quantum Computing](https://www.youtube.com/watch?v=1Fp6ibfOQ4Y)
+## Background context
+
+<br>
+
+* **[⚛️ my graduate book on Quantum Information](http://www.astro.sunysb.edu/steinkirch/books/qi.pdf)**
+* **[⚛️ my graduate book on Quantum Field Theory](https://www.freebookcentre.net/physics-books-download/Introduction-to-Quantum-Field-Theory-by-Marina-von-Steinkirch.html)**
+* **[⚛️ my graduate book on Group Theory](http://www.astro.sunysb.edu/steinkirch/books/group.pdf)**
+* **[⚛️ my peer-reviewed scientific publications](https://scholar.google.com/citations?user=2u83QMkAAAAJ&amp;hl=en)**
+* **[⚛️ my graduate website with several research whitepapers](http://www.astro.sunysb.edu/steinkirch/#notes)**
+* **[⚛️ my quantum teleportation demo in Cirq](https://www.youtube.com/watch?v=oGYMrXpQT-8)**
+* **[⚛️ my DEF CON 23 talk on Hacking Quantum Computing](https://www.youtube.com/watch?v=1Fp6ibfOQ4Y)**
+
 
 
 <br>
 
 ----
 
-## Introduction
+## Introduction to QC
+
+<br>
 
 ### General Articles
 
@@ -65,9 +79,13 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [Variational Quantum Eigensolver Explained by Musty](https://www.mustythoughts.com/post/variational-quantum-eigensolver-explained).
 
+<br>
+
 ----
 
 ## Quantum Supremacy
+
+<br>
 
 ### Articles
 
@@ -81,10 +99,14 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 * [Google's Quantum supremacy explained](https://www.youtube.com/watch?v=gylmjTOUfCQ&feature=youtu.be).
 * [The Race For Quantum Supremacy - VICE](https://www.youtube.com/watch?v=1lIfbqfoGMo&feature=emb_logo).
 
+<br>
+
 
 ----
 
 ## The NISQ Era
+
+<br>
 
 * [Quantum Computing in th NISQ era and Beyond, John Preskill](https://arxiv.org/pdf/1801.00862.pdf).
 
@@ -97,18 +119,27 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 * [The Potential Impact of Quantum Computers on Society](https://arxiv.org/abs/1712.05380).
 * [Volkswagen to Test Quantum Navigation App in Real Traffic](https://www.wsj.com/articles/volkswagen-to-test-quantum-navigation-app-in-real-traffic-11572553300).
 
+<br>
+
 ---
 
-# Quantum Machine Learning
+## Quantum Machine Learning
+
+<br>
 
 ## Introduction
 * [Quantum Machine Learning MOOC from University of Toronto](https://www.edx.org/course/quantum-machine-learning).
 * [Simulating Physics with Computers](https://www.dwavesys.com/sites/default/files/2018-04-04%20-%20Max%20Henderson%20-%20Quantum%20Machine%20Learning%20for%20Election%20Modeling.pdf).
 * [Opportunities and Challenges for quantum-assisted ML in NISQ](https://iopscience.iop.org/article/10.1088/2058-9565/aab859).
 
+<br>
 
 -----
+
 ## Quantum Software
+
+<br>
+
 * [Overview and Comparison of Gate Level Quantum Software Platforms](https://arxiv.org/pdf/1807.02500.pdf).
 * [Making Quantum Computing Open: Lessons from Open-Source Projects](https://arxiv.org/pdf/1902.00991.pdf).
 * [Open-source in Quantum Computing](https://arxiv.org/pdf/1812.09167.pdf).
@@ -139,9 +170,14 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [s2n : an implementation of the TLS/SSL protocols (with post-quantum hybrid options)](https://github.com/awslabs/s2n).
 
+
+<br>
+
 ----
 
 ## Hardware
+
+<br>
 
 * [This is what a 50-qubit quantum computer looks like](https://www.engadget.com/2018/01/09/this-is-what-a-50-qubit-quantum-computer-looks-like/).
 
@@ -160,9 +196,13 @@ The purpose of this repository is to keep a list of high-quality curated resourc
 
 * [Developing a Topological Qubit](https://cloudblogs.microsoft.com/quantum/2018/09/06/developing-a-topological-qubit/).
 
+<br>
+
 ----
 
 ## Post-Quantum & Crypto
+
+<br>
 
 * [How Quantum Computers Break Encryption | Shor's Algorithm Explained](https://www.youtube.com/watch?v=lvTqbM5Dq4Q&t=160s).
 
