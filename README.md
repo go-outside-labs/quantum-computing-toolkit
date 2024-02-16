@@ -17,7 +17,7 @@
 
 ----
 
-### my background context
+### my background credentials
 
 <br>
 
@@ -47,4 +47,5 @@
 * **[quantum machine learning](quantum_machine_learning.md)**
 * **[the nisq era](the_nisq_era.md)**
 * **[post-quantum crypto](post_quantum_crypto.md)**
+* **[for blockchains](for_blockchains.md)**
 
