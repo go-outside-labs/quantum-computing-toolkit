@@ -21,13 +21,14 @@
 
 <br>
 
+* **[⚛️ my DEF CON 23 talk on hacking quantum computing](https://www.youtube.com/watch?v=1Fp6ibfOQ4Y)**
+* **[⚛️ my quantum teleportation demo in cirq](https://www.youtube.com/watch?v=oGYMrXpQT-8)**
 * **[⚛️ my graduate book on quantum information](http://www.astro.sunysb.edu/steinkirch/books/qi.pdf)**
 * **[⚛️ my graduate book on quantum field theory](https://www.freebookcentre.net/physics-books-download/Introduction-to-Quantum-Field-Theory-by-Marina-von-Steinkirch.html)**
 * **[⚛️ my graduate book on group theory](http://www.astro.sunysb.edu/steinkirch/books/group.pdf)**
 * **[⚛️ my peer-reviewed scientific publications](https://scholar.google.com/citations?user=2u83QMkAAAAJ&amp;hl=en)**
 * **[⚛️ my graduate website with several research whitepapers](http://www.astro.sunysb.edu/steinkirch/#notes)**
-* **[⚛️ my quantum teleportation demo in cirq](https://www.youtube.com/watch?v=oGYMrXpQT-8)**
-* **[⚛️ my DEF CON 23 talk on hacking quantum computing](https://www.youtube.com/watch?v=1Fp6ibfOQ4Y)**
+
 
 
 
@@ -47,7 +48,5 @@
 * **[quantum machine learning](quantum_machine_learning.md)**
 * **[the nisq era](the_nisq_era.md)**
 * **[post-quantum crypto](post_quantum_crypto.md)**
-
-  
 * **[for blockchains](for_blockchains.md)**
 
